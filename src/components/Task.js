@@ -44,6 +44,7 @@ export default function Task({
           <span className={`icon-star`} />
         </button>
       )}
+      <span></span>
     </div>
   );
 }
